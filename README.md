@@ -30,3 +30,18 @@ Users can watch videos online, download them for offline viewing, and save their
 | Home Screen | Video Detaile | Favorites |
 |-------------|---------------|-----------|
 |<img width="250" height="555" alt="Screenshot_2025-10-05-14-08-53-201_com example streamingtopvideo250" src="https://github.com/user-attachments/assets/55504f2d-1b7e-4904-a214-5b78c17de890" />|<img width="250" height="555" alt="Screenshot_2025-10-05-13-46-16-849_com example streamingtopvideo250" src="https://github.com/user-attachments/assets/b7860e29-9d88-44df-829b-618f2375ca22" />|<img width="250" height="555" alt="Screenshot_2025-10-05-14-09-54-070_com example streamingtopvideo250" src="https://github.com/user-attachments/assets/52668d00-1d22-4d3e-83e4-9747ca807b58" />|
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/YourUsername/StreamingTopVideo.git
+```
+
+2. Open the project in Android Studio
+
+3. Set your API base URL and API key
+
+4. Run the app ✅
+ 
