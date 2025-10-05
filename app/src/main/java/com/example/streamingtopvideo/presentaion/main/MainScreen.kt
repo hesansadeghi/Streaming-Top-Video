@@ -76,12 +76,7 @@ fun MainScreen() {
         modifier = Modifier.background(MidnightDark),
         topBar = {
 
-//            if (fullScreen.not()) {
-
             TopAppView(navController, appBarHeight.value)
-
-//            }
-
         },
         bottomBar = {
 
