@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Streaming Top Video</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+</resources>
