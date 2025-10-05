@@ -41,7 +41,5 @@ git clone https://github.com/YourUsername/StreamingTopVideo.git
 
 2. Open the project in Android Studio
 
-3. Set your API base URL and API key
-
-4. Run the app ✅
+3. Run the app ✅
  
