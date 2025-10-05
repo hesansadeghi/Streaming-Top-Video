@@ -1,13 +1,6 @@
 package com.example.streamingtopvideo.di
 
 import com.example.streamingtopvideo.data.api.ApiService
-import com.example.streamingtopvideo.data.repositories.HomeRepository
-import com.example.streamingtopvideo.data.uses_cases.home.GetExistsDownloadedMovieCase
-import com.example.streamingtopvideo.data.uses_cases.home.GetFantasyMovieWithGenre
-import com.example.streamingtopvideo.data.uses_cases.home.GetGenresCase
-import com.example.streamingtopvideo.data.uses_cases.home.GetMusicWithGenre
-import com.example.streamingtopvideo.data.uses_cases.home.HomeUseCase
-import com.example.streamingtopvideo.data.uses_cases.home.LastMoviesCase
 import com.example.streamingtopvideo.util.Constants
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder

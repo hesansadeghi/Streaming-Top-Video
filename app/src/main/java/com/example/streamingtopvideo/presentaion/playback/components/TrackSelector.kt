@@ -1,7 +1,6 @@
 package com.example.streamingtopvideo.presentaion.playback.components
 
 import androidx.annotation.OptIn
-import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth

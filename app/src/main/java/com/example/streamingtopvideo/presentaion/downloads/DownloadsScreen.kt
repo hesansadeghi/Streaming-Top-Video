@@ -29,7 +29,6 @@ import com.example.streamingtopvideo.util.Constants.STREAM_URL
 import com.example.streamingtopvideo.util.ImmersiveSystemUi
 import com.example.streamingtopvideo.util.ThisApp
 import com.example.streamingtopvideo.util.setScreenOrientation
-import kotlinx.coroutines.flow.observeOn
 
 
 @Composable

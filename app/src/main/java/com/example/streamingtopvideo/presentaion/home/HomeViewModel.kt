@@ -27,8 +27,6 @@ import com.example.streamingtopvideo.util.Constants.REQUEST_ID
 import com.example.streamingtopvideo.util.Constants.START_DOWNLOAD
 import com.example.streamingtopvideo.util.DownloadManagerUtil
 import com.example.streamingtopvideo.util.Resource
-import com.example.streamingtopvideo.util.Utils
-import com.example.streamingtopvideo.util.Utils.formatFileSize
 import dagger.hilt.android.lifecycle.HiltViewModel
 import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.async
@@ -37,7 +35,6 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
-import kotlin.collections.firstOrNull
 
 
 @UnstableApi

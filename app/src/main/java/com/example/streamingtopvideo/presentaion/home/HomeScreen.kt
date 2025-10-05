@@ -78,7 +78,6 @@ fun HomeScreen(
     }
 
     val activity = LocalActivity.current
-    val context = LocalContext.current
 
     val playMovie: PlayMovieModel? = viewModel.playMovie.collectAsState().value
     val detaileMovieNavigate: Int? = viewModel.detaileMovieNavigate.collectAsState().value
