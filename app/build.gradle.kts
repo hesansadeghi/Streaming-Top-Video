@@ -119,4 +119,8 @@ dependencies {
 //    permissions
     implementation(libs.accompanist.permissions)
 
+
+//    icons
+    implementation(libs.material.icons.extended)
+
 }
